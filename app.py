@@ -1,8 +1,3 @@
-Watchlist Explorer — Session 4, Track A (Era 2 · Streamlit)
-BDS M1 · Hamid Bekamiri
-
-Run it with:   streamlit run app.py
-"""
 
 import time
 
